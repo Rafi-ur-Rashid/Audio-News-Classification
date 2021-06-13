@@ -15,6 +15,10 @@
 - 1D CNN
 - C-LSTM
 
+### Miscalenous
+- Speech To Text (STT) module (eg. Google's STT module) to retrieve text, then run various text classifiers ?
+  - HuggingFace's m-Bert
+  - Naive Bag Of Words with classifier
 
 ## Different Features to experiment with
 
