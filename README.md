@@ -5,6 +5,7 @@
 ### 2D
 - ✔️ CNN Model
 - ✔️ Transfer Learning using Image SOTA models eg. VGG, ResNet, etc.
+- CNN with Attention (Pervasive Attention ... used in Machine Translation, can it be used here ?)
 - Image Transformer
 
 ### 1D
