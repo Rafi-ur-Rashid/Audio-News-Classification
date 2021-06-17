@@ -27,3 +27,8 @@
 - Discrete Fourier Transform for voice normalization ?
 - FFT
 - CTF ??
+
+
+## Different methodologies for future
+- Stream/online or real-time classification ?
+- BoAP: Bag of audio & phrases descriptor
