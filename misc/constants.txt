@@ -1,0 +1,10 @@
+RANDOM_STATE = 2245
+
+LABELS_MAPPING:
+{
+"national": 
+"international":
+"economics":
+"entertainment":
+"sports":
+}
