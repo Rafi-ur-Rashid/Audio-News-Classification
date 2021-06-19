@@ -1,0 +1,5 @@
+For bulk conversion:
+for /r %i in (*) do ffmpeg -i %i %i.mp3
+
+For single file conversion:
+ffmpeg -i example.m4a example.mp3
