@@ -2,8 +2,11 @@
 
 ## Models for Experimentation
 
-## Wav2Vec
+#### Wav2Vec
 - Pretrained for Bangla: https://huggingface.co/tanmoyio/wav2vec2-large-xlsr-bengali
+
+#### Audio ALBert
+https://github.com/s3prl/s3prl/blob/master/downstream/README.md
 
 ### 2D
 - ✔️ CNN Model
