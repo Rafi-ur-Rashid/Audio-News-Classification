@@ -2,6 +2,9 @@
 
 ## Models for Experimentation
 
+## Wav2Vec
+- Pretrained for Bangla: https://huggingface.co/tanmoyio/wav2vec2-large-xlsr-bengali
+
 ### 2D
 - ✔️ CNN Model
 - ✔️ Transfer Learning using Image SOTA models eg. VGG, ResNet, etc.
