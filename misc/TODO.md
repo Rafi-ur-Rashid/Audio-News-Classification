@@ -3,10 +3,13 @@
 ## Models for Experimentation
 
 #### Wav2Vec
-- Pretrained for Bangla: https://huggingface.co/tanmoyio/wav2vec2-large-xlsr-bengali
+Pretrained for Bangla: https://huggingface.co/tanmoyio/wav2vec2-large-xlsr-bengali
 
 #### Audio ALBert
 https://github.com/s3prl/s3prl/blob/master/downstream/README.md
+
+#### AST: Audio Spectrogram Transformer
+https://paperswithcode.com/paper/ast-audio-spectrogram-transformer
 
 ### 2D
 - ✔️ CNN Model
